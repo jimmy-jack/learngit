@@ -1,2 +1,2 @@
-git is useful.
-git is easy to learn.
+git is  very useful.
+git is very easy to learn.
