@@ -1,3 +1,6 @@
 devaaaaalsajijojo_dev
 new line
+<<<<<<< HEAD
 master
+dev_flag
+
